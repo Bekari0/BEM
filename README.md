@@ -18,3 +18,30 @@
 голова__глаза--форма-узкие
 тело__волосы--цвет-карие
 руки__пальцы--размер-большие
+
+## 2-4 задание
+### header
+``` 
+header.header>div.header__wrapper>a.header__logo.logo>img.logo__img^nav.header__nav.nav>ul.nav__list>li.nav__item*6>a.nav__link
+``` 
+![Header](/img/header.png "Header")
+
+### form
+
+```
+section.form>div.form__wrapper>h2.form__heading>form.form>label.form__label*5>input.form__input+button.form__button
+```
+![form](/img/form.png)
+
+### card 
+
+```
+section.card>div.card__wrapper>h2.card__heading>ul.card__list>li.card__item.item*3>img.item__img+p.item__heading+p.item__description
+```
+![card](/img/card.png)
+
+### other
+```
+section.benefits>div.benefits__wrapper>h2.benefits__heading>ol.benefits__list>li.benefits__item*8>img.benefits__img+p.benefits__description
+```
+![other](/img/other.png)

@@ -29,19 +29,19 @@ header.header>div.header__wrapper>a.header__logo.logo>img.logo__img^nav.header__
 ### form
 
 ```
-section.form>div.form__wrapper>h2.form__heading>form.form>label.form__label*5>input.form__input+button.form__button
+section.find-out>div.find-out__wrapper>h2.find-out__heading+form.find-out__form.form>label.form__label*2>select.form__select>option.form__option*3^^label.form__label*3>input.form__input^button.form__button
 ```
 ![form](/img/form.png)
 
 ### card 
 
 ```
-section.card>div.card__wrapper>h2.card__heading>ul.card__list>li.card__item.item*3>img.item__img+p.item__heading+p.item__description
+section.card>div.card__wrapper>h2.card__heading+ul.card__list>li.card__item.item*3>img.item__img+p.item__heading+p.item__description
 ```
 ![card](/img/card.png)
 
 ### other
 ```
-section.benefits>div.benefits__wrapper>h2.benefits__heading>ol.benefits__list>li.benefits__item*8>img.benefits__img+p.benefits__description
+section.benefits>div.benefits__wrapper>h2.benefits__heading+ol.benefits__list>li.benefits__efficiency-card*8>img.benefits__img+p.benefits__description
 ```
 ![other](/img/other.png)
